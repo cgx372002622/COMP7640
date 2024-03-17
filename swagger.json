@@ -15,6 +15,10 @@
     {
       "name": "test",
       "description": "测试接口"
+    },
+    {
+      "name": "admin",
+      "description": "用户后台管理"
     }
   ]
 }
