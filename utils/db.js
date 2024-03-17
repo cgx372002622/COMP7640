@@ -1,4 +1,4 @@
-import { MongoClient, ObjectId } from "mongodb";
+const { MongoClient, ObjectId } = require("mongodb");
 
 // TODO 等待其他组员提供MongoDB连接字符串
 process.env.MONGODB_URI =
